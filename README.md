@@ -1,2 +1,2 @@
-# portfolio
-My portfolio website
+# Portfolio
+Just my portfolio website, nothing to see here 👀
