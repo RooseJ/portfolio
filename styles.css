@@ -432,11 +432,14 @@ nav.scrolled {
 }
 
 .logo {
-    font-family: "Playfair Display", serif;
-    font-size: 1.5rem;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    color: var(--white);
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 36px;
+    width: auto;
+    display: block;
 }
 
 .nav-toggle {
